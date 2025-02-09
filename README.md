@@ -94,6 +94,13 @@ Este projeto foi desenvolvido como parte do exercício prático do curso "Micros
      print(response.json())
      ```
 
+7. **Resultado**
+
+       [
+         352.3564674945718
+       ]
+
+
 ## Conclusão
 
 Este `README.md` descreve os passos seguidos para configurar, treinar e implantar um modelo de aprendizado de máquina usando o Azure Machine Learning. O arquivo `.json` de pontos de extremidade também foi salvo neste repositório.
